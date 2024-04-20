@@ -1,3 +1,5 @@
+Architecture Development 
+
 Project Summary:
 
 The Public Health Disease Surveillance Architecture Development Project aimed to create a robust system for monitoring and analyzing disease outbreaks, particularly focusing on syndromic surveillance. By leveraging advanced technologies, the project aimed to develop a setup capable of gathering, managing, and analyzing health data from various sources. This initiative sought to expedite the detection and management of health issues by enhancing analysis and fostering collaboration among healthcare systems.
