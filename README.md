@@ -20,8 +20,6 @@ Technologies Used:
 7. JSON: Formats structured data.
 8. HL7 FHIR: Standardizes healthcare data exchange.
 
-Challenges faced:
-
 Challenges Faced:
 - Integration Complexity: Ensuring seamless communication among different healthcare system components.
 - Security Concerns: Protecting health data privacy and access control.
